@@ -1,0 +1,7 @@
+{
+  "name": "profileApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
