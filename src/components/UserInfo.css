@@ -1,0 +1,10 @@
+ion-avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.header {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
